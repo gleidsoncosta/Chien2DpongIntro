@@ -1,0 +1,4 @@
+﻿  chien2d2mapa.cpp
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(C:\Users\sidney\Documents\Chien2D\chien2d2\cm2\.\Debug\cm2.lib) does not match the Library's OutputFile property value (C:\Users\sidney\Documents\Chien2D\chien2d2\lib\cm2d.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1153,5): warning MSB8012: TargetName(cm2) does not match the Library's OutputFile property value (cm2d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  cm2.vcxproj -> C:\Users\sidney\Documents\Chien2D\chien2d2\cm2\.\Debug\cm2.lib

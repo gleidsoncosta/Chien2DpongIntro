@@ -1,0 +1,4 @@
+﻿  ator.cpp
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(C:\Users\sidney\Documents\Chien2D\chien2d2\cator\.\Debug\cator.lib) does not match the Library's OutputFile property value (C:\Users\sidney\Documents\Chien2D\chien2d2\lib\catord.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1153,5): warning MSB8012: TargetName(cator) does not match the Library's OutputFile property value (catord). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  cator.vcxproj -> C:\Users\sidney\Documents\Chien2D\chien2d2\cator\.\Debug\cator.lib

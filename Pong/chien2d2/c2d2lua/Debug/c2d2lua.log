@@ -1,0 +1,8 @@
+﻿  chienlua2.cpp
+  chienaudio2lua.cpp
+  chien2d2lua.cpp
+  atorlua.cpp
+  Generating Code...
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(C:\Users\sidney\Documents\Chien2D\chien2d2\c2d2lua\.\Debug\c2d2lua.lib) does not match the Library's OutputFile property value (C:\Users\sidney\Documents\Chien2D\chien2d2\lib\c2d2luad.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1153,5): warning MSB8012: TargetName(c2d2lua) does not match the Library's OutputFile property value (c2d2luad). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  c2d2lua.vcxproj -> C:\Users\sidney\Documents\Chien2D\chien2d2\c2d2lua\.\Debug\c2d2lua.lib
